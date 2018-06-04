@@ -4,3 +4,4 @@ def ab_me
   puts "I'm 25 years old"
   puts "My favourite food is Kookies"
 end 
+ab_me
